@@ -1,8 +1,7 @@
 # 5678
 ## Table of contents
-* [General info](#general-info)
-* [Technologies](#technologies)
-* [Setup](#setup)
+* [Serial-Communication](https://github.com/HyeokJinYun/Serial-Communication "Serial-Communication")
+* [Android Application "WutchOut"](https://github.com/suc1117/WutchOut "WutchOut")
 
 ## General info
 This project is simple Lorem ipsum dolor generator.
