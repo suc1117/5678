@@ -13,6 +13,18 @@
 * [Raspberry Pi Map](https://github.com/kimjinhong2/maps "map")
 * [Raspberry Pi GPS](https://github.com/ayj8655/RaspberryPi_wutchout "rasp")
 
+## 서론
+
+도로 주행 중 갑작스럽게 직면하는 도로낙하물로 인한 사고가 꾸준히 발생하면서 인명피해가 발생하고 있다. <br>
+<그림 1>과 같이 고속도로에서 한해 발생한 낙하물 수거 건수는 연평균 약 23만건 이상이다. <br>
+본 자료는 일반도로를 고려한 것이 아닌 고속도로만을 고려한 결과임을 고려한다면 실제 도로에는 수많은 낙하물이 존재하며 수많은 잠재적 위협이 있다는 것을 보여준다.
+
+<img src="https://user-images.githubusercontent.com/48272857/70631976-60415d00-1c71-11ea-9afa-361eb6f50cc4.PNG"> <br>
+<그림 1> 고속도로 낙하물 건수 <br>
+
+도로 주행 중 발생하는 교통사고로 인한 피해는 도로공사와 같은 기관에서의 보상이 이루어지는 것이 아닌 개인이 피해를 고스란히 입고있는 실정이다.[1]<br>도로주행중 갑작스럽게 직면하는 낙하물을 회피하면서 발생하는 급정지, 차선변경로 인해 2차 사고를 불가피하게 발생한다. 낙하물 사고 낙하물로 인한 피해를 해결하기 위한 기존연구가 진행되었으나 적재 불량 차량단속과 같은 간접적인 문제에 편향 되어있어 낙하물을 제거할 근본적인 방안에 대한 연구가 진행되지 않았다. <br>
+본 연구는 낙하물로 인한 사고를 줄이기 위한 근본적인 문제를 해결하기 위한 방안을 제시한다.
+
 ## 시각화
   <img src="https://user-images.githubusercontent.com/48272857/70411781-7a731380-1a96-11ea-8de9-a4944178e6f8.png" width=550px>
   낙하물이 감지되었을 때, 위와 같이 라즈베리파이에서 GPS 정보를 COMPUTER로 시리얼 통신으로 전송하고 <br>
@@ -38,4 +50,6 @@ Project is created with:
 * [YOLO](https://github.com/AlexeyAB/darknet "YOLO") <br>
   tool: [YOLO_mark](https://github.com/AlexeyAB/Yolo_mark "YOLO mark")
   
-  
+## 출처
+[1]최희정, “고속도로 낙하물 5년간 132만건…피해보상은 고작 16건”, ‘중앙일보’, 2018.10.12, (https://news.joins.com/article/23013762)
+
