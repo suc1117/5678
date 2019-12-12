@@ -12,6 +12,7 @@
 * [FTP C++](https://github.com/suc1117/FTP "FTP C++")
 * [Raspberry Pi Map](https://github.com/kimjinhong2/maps "map")
 * [Raspberry Pi GPS](https://github.com/ayj8655/RaspberryPi_wutchout "rasp")
+* [YOLO](https://github.com/RaeGeunPark/YOLOv2-based-Falling-Object-Detection/blob/master/YOLOv2-based-Falling-Object-Detection_Modified.md)
 
 ## 서론
 
